@@ -1,0 +1,46 @@
+body
+{
+background: url(banner-1-1.jpg) no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+}
+
+.title{
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+
+	padding: 10px;
+	text-align: center;
+	color: white;}
+	
+.form-group{
+	 background: aquamine;
+	text-decoration-style: solid;
+	font-size: 24px;
+	margin-left: 50px;
+	margin-top: 10px;
+	text-align: left;
+	border-radius: 0px 0px 10px 10px;
+	padding: 10px 20px
+}
+.form-controll{
+	background: White;
+	padding: 10px 20px
+}
+.btnreg{
+	color: aqua;
+	border-radius: 35px;
+	padding: 10px 20px;
+	border: none;
+	background: black;
+	margin-left: 50px;
+}
+.btnreg:hover{
+	color: blue;
+	background: white;
+}
+.icon-bar
+{
+    
+}
